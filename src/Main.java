@@ -44,7 +44,7 @@ public class Main {
         System.out.println("Conteúdos Concluídos Pedro: " + devPedro.getConteudosConcluidos());
         System.out.println("XP: " + devPedro.calcularTotalXp() );
 
-        System.out.println("--------");
+        System.out.println("---------");
 
         Dev devEduardo = new Dev();
         devEduardo.setNome("Eduardo");
